@@ -9,7 +9,15 @@ This repository contains JavaScript practice files, examples, and mini-projects 
 The goal of this project is to:
 
 ⭐Learn JavaScript fundamentals
+
+
 ⭐Practice coding regularly
+
+
 ⭐Build small projects
+
+
 ⭐Improve problem-solving skills
+
+
 ⭐Understand web development concepts
