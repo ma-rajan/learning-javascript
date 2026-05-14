@@ -1,0 +1,29 @@
+.container1{
+    box-shadow: 7px 3px 4px rgb(221, 72, 56);
+    border-radius: 4%;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 22px;
+    width: 520px;
+    height: 450px;
+    background-color: blanchedalmond;
+    border: 2px solid black
+    
+}
+#titlelbl{
+    background-color: rgb(220, 167, 130);
+    color: rgb(100, 127, 150);
+    display:inline;
+    border-radius: 4px;
+}
+#num{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#resultbtn{
+    padding-left: 10px;
+    font-size: 20px;
+    background-color: rgb(125, 145, 200);
+}
+#resultbtn:hover{
+    background-color: rgb(47, 18, 238);
+}
