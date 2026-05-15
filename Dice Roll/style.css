@@ -1,0 +1,21 @@
+.container1{
+    text-align: center;
+    width: 400px;
+    height: 450px;
+    background-color: blanchedalmond;
+    border: 2px solid rgb(184, 192, 38);
+    color: blueviolet;
+    box-shadow: 2px 3px 10px rgb(178, 238, 36);
+}
+#resultbtn{
+    margin-top: 70px;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 12px;
+    font-weight: bold;
+    background-color: aquamarine;
+    color: rgb(242, 12, 43);
+}
+#resultbtn:hover{
+    background-color: rgb(14, 241, 166);
+}
