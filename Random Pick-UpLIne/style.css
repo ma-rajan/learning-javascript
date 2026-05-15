@@ -1,0 +1,21 @@
+.container1{
+    width: 550px;
+    height: 590px;
+    border:2px solid black;
+    margin-left: 60px;
+    margin-top: 60px;
+    text-align: center;
+    box-shadow: 2px 4px 7px;
+    background-color: blanchedalmond;
+}
+button{
+    padding: 12px;
+    margin-top: 42px;
+    font-weight: bold;
+    font-size: 17px;
+    background-color: aquamarine;
+    border-radius: 14px;
+}
+button:hover{
+    background-color: aqua;
+}
