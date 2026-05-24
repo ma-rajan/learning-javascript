@@ -1,0 +1,19 @@
+const heading=document.querySelector(".heading");
+heading.style.backgroundColor="yellow";
+heading.style.color="white"
+heading.style.fontSize="35px";
+heading.style.fontWeight="bold";
+const st1=document.querySelector("body");
+st1.style.backgroundColor="gray";
+const container=document.querySelector(".container");
+container.style.border="2px solid-black";
+container.style.Width="150px";
+container.style.height="150";
+const image=document.querySelector("img");
+image.style.Width="200px";
+image.style.height="200px"
+image.style.display="flex";
+image.style.alignItems="center"
+image.style.gap="10px"
+image.style.borderRadius="50%";
+
