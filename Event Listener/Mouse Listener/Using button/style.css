@@ -1,0 +1,29 @@
+#container{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    color:brown;
+    font-size: 31px;
+    padding: 10px;
+    box-shadow: 2px 5px 2px 4px rgb(209, 206, 206);
+    border-radius: 5%;
+
+
+}
+
+p{
+    padding-top: 45px;
+    font-weight: bold;
+}
+
+button{
+    margin-top: 30px;
+    margin-left: 10px;
+    padding: 10px;
+    background-color: blueviolet;
+    border-radius: 5%;
+    color: wheat;
+    font-size: 21px;
+    font-weight: bold;    
+}

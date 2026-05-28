@@ -1,0 +1,17 @@
+#container{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    color:brown;
+    font-size: 31px;
+    padding: 10px;
+    box-shadow: 2px 5px 2px 4px rgb(209, 206, 206);
+    border-radius: 5%;
+    cursor: pointer;
+}
+
+p{
+    padding-top: 35px;
+    font-weight: bold;
+}

@@ -1,0 +1,10 @@
+#container{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    font-size: 5rem;
+    text-align: center;
+}
+p{
+    padding-top: 40px;
+}
