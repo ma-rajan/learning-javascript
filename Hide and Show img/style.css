@@ -1,0 +1,19 @@
+#img{
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+}
+button{
+    padding: 5px;
+    font-size: 2rem;
+    font-weight: bold;
+    background-color: aqua;
+    width: 150px;
+    color: rgb(151, 135, 115);
+    border-radius: 5%;
+    box-shadow: 2px 5px 6px ;
+}
+button:hover{
+    background-color: aquamarine;
+    cursor: pointer;
+}
