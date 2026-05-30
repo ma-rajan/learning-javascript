@@ -1,0 +1,37 @@
+.container img{
+   padding: 10px;
+    width: 250px;
+    height: 250px;
+    margin-top: 40px;
+    border-radius: 250px;
+    box-shadow: 2px 5px 6px 5px rgb(213, 223, 31);
+}
+.container button{
+    height: 50px;
+    width: 100px;
+    border-radius: 10%;
+    border: none;
+    background-color: aquamarine;
+    margin-top: 42px;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(156, 152, 145);
+    margin-left: 24px;
+    box-shadow: 5px 6px 2px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: aqua;
+}
+.container{
+    background-color: rgb(237, 216, 188);
+    text-align: center;
+    border: 2px solid black;
+    width: 500px;
+    height: 500px;
+    margin-top: 40px;
+    margin-left: 250px;
+    border: none;
+    border-radius: 20px;
+    box-shadow:2px 5px 15px rgb(208, 192, 163);
+}
