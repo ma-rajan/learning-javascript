@@ -1,0 +1,19 @@
+[{
+      "Name":"Rahul",
+    "Rollno":62,
+    "Address":"Pokhara",
+    "Phoneno":"9623764713"
+},
+{
+    "Name":"Mohan",
+    "Rollno":23,
+    "Address":"Kathmandu",
+    "Phoneno":"9716342234"
+},
+{
+  "Name":"Raksha",
+    "Rollno":15,
+    "Address":"Chitwan",
+    "Phoneno":"9847324543"
+}
+]
